@@ -1,0 +1,3 @@
+   background: linear-gradient(var(--dark), var(--green));
+background: var(--green);
+ background-color: rgb(202, 52, 52);
